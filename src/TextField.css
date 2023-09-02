@@ -1,0 +1,21 @@
+.textfield {
+    padding: 10px;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    margin: 5px;
+  }
+  
+  .rounded-textfield {
+    border-bottom: 5px solid rgb(0, 143, 48);
+  }
+  
+  .green-textfield {
+    background-color: rgb(0, 151, 68);
+    border-bottom: 3px solid black;
+    border-top: 3px solid black;
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+    border-radius: 8px;
+  }
+  
